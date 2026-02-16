@@ -651,7 +651,7 @@
               <img src="@/assets/curso/temas/icono-link.svg" />
             </div>
             <div class="anexo__texto">
-              <p><b>Enlace web.</b> Video- “Que es el IoT?” – curso básico</p>
+              <p><b>Enlace web.</b> Video- "Que es el IoT?" – curso básico.</p>
             </div></a
           ><a class="anexo mb-3" href="https://wokwi.com/" target="_blank">
             <div class="anexo__icono">
@@ -660,7 +660,7 @@
             <div class="anexo__texto">
               <p>
                 <b>Enlace web.</b> Simulador: Wokwi - Simulador de Arduino y
-                ESP3
+                ESP3.
               </p>
             </div></a
           >
@@ -677,7 +677,7 @@
             <div class="anexo__texto">
               <p>
                 <b>Enlace web.</b> Estándares de comunicación inalámbrica en
-                IoT:
+                IoT.
               </p>
             </div></a
           >
